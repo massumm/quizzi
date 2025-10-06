@@ -1,5 +1,7 @@
 class  AppRoutes{
-  static const LOGIN="/login";
+  static const SPLASH="/splash";
   static const HOME='/home';
-  static const DETAIL='/detail';
+  static const QUESTIONS='/question';
+  static const CONFIG='/config';
+  static const RESULT='/result';
 }
